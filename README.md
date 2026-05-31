@@ -1,16 +1,65 @@
-## Hi there 👋
+# Olá, eu sou Dirac 👋
 
-<!--
-**Dirac975/Dirac975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de TI
+📚 Cursando Técnico em Informática no Grau Técnico
+📍 Natal, Rio Grande do Norte - Brasil
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Tecnologia da Informação com interesse em desenvolvimento, infraestrutura e segurança da informação. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.
+
+### 💡 Áreas de Interesse
+
+* 🔐 Cybersecurity
+* 🌐 Redes de Computadores
+* 🤖 Automação
+* 💻 Desenvolvimento Web
+* 🗄️ Banco de Dados
+* 📱 Criação de Sites e Landing Pages
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens
+
+* Python
+
+### Desenvolvimento Web
+
+* HTML
+* CSS
+* JavaScript
+
+### Banco de Dados
+
+* MySQL
+* PostgreSQL
+
+### Outros
+
+* Git
+* GitHub
+* Linux
+
+## 📈 Atualmente Estudando
+
+* Segurança da Informação
+* Redes de Computadores
+* Automação com Python
+* Desenvolvimento Web Moderno
+* Administração de Bancos de Dados
+
+## 🎯 Objetivos
+
+* Desenvolver projetos de automação com Python
+* Aprimorar conhecimentos em Cybersecurity
+* Criar aplicações web completas
+* Aprofundar conhecimentos em infraestrutura e redes
+
+## 📫 Contato
+
+* 📍 Natal/RN
+* 💼 GitHub: https://github.com/Dirac
+
+---
+
+⭐ Sempre aprendendo, construindo e evoluindo.
