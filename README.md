@@ -6,13 +6,10 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Tecnologia da Informação com interesse em desenvolvimento, infraestrutura e segurança da informação. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.
+Sou estudante de Tecnologia da Informação com interesse em desenvolvimento, infraestrutura, Web Designer e Landing Page. Buscando aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.
 
 ### 💡 Áreas de Interesse
 
-* 🔐 Cybersecurity
-* 🌐 Redes de Computadores
-* 🤖 Automação
 * 💻 Desenvolvimento Web
 * 🗄️ Banco de Dados
 * 📱 Criação de Sites e Landing Pages
@@ -42,18 +39,16 @@ Sou estudante de Tecnologia da Informação com interesse em desenvolvimento, in
 
 ## 📈 Atualmente Estudando
 
-* Segurança da Informação
-* Redes de Computadores
-* Automação com Python
-* Desenvolvimento Web Moderno
-* Administração de Bancos de Dados
+* Redes de Computadores.
+* Automação com Python.
+* Desenvolvimento Web Moderno.
+* Administração de Bancos de Dados.
 
 ## 🎯 Objetivos
 
-* Desenvolver projetos de automação com Python
-* Aprimorar conhecimentos em Cybersecurity
-* Criar aplicações web completas
-* Aprofundar conhecimentos em infraestrutura e redes
+* Aprender mais sobre Web Designer.
+* Aprimorar conhecimentos em criação de Landing Page.
+* Aprofundar conhecimentos em infraestrutura e redes.
 
 ## 📫 Contato
 
